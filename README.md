@@ -1,3 +1,7 @@
+Facebook clone web app created by following a Youtube tutorial by CleverProgrammer: https://www.youtube.com/watch?v=B-kxUMHBxNo
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
